@@ -58,7 +58,8 @@ class Digraph:
 
 if __name__ == "__main__":
     routes = [
-        ("MAKATI", "PATEROS")
+        ("MAKATI", "PATEROS"),
+        ("PATEROS", "TAGUIG")
         #comment    
 
         ]
